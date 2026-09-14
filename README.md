@@ -1,7 +1,7 @@
 <h1 align="center" style="font-size: 2.6em; margin-bottom: 0.1em;">Ritish Khichi</h1>
 
 <p align="center" style="font-size: 1.25em; line-height: 1.6;">
-  <b>Backend Systems Engineer | Distributed Architecture | Low-Latency C++ & Python</b><br>
+  <b><b>Backend & Full-Stack Engineer | Distributed Systems | Agentic AI, RAG Pipelines & Automation| Low-Latency C++ & Python</b><br>
   <span style="font-size: 0.95em; color: #586069;">IIT Jodhpur Alumnus • Software Developer at R Systems</span>
 </p>
 
