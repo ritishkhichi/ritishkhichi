@@ -48,13 +48,7 @@ I am a Software Engineer specializing in scalable full-stack infrastructure, dis
 * **AI & Automation:** Agentic AI, RAG Pipelines, LLM Orchestration, LangChain, Workflow Automation
 * **Developer Tooling:** CMake, Google Benchmark, Prometheus, OpenOCD, VS Code API, Linux
 
----
 
-## 🎓 Education & Honors
-
-* **B.Tech. in BioScience & BioEngineering** | Indian Institute of Technology Jodhpur *(2020 – 2024)*
-* **Finalist** | *The Talent Hack* (Deutsche Telekom Digital Labs × Cursor, Gurugram)
-* **Gold Medalist** | *International Cyber Olympiad*
 
 ---
 
@@ -88,4 +82,8 @@ I am a Software Engineer specializing in scalable full-stack infrastructure, dis
 
 ---
 
+## 🎓 Education & Honors
 
+* **B.Tech. in BioScience & BioEngineering** | Indian Institute of Technology Jodhpur *(2020 – 2024)*
+* **Finalist** | *The Talent Hack* (Deutsche Telekom Digital Labs × Cursor, Gurugram)
+* **Gold Medalist** | *International Cyber Olympiad*
