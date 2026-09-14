@@ -58,8 +58,7 @@ I am a Software Engineer specializing in scalable full-stack infrastructure, dis
   * **[PR #483: STYLE: Standardize class and file naming in src/Developer](https://github.com/InsightSoftwareConsortium/ITKSphinxExamples/pull/483)** `Merged`
   * Standardized class architecture, header guards, and naming conventions across developer example pipelines to enforce ITK core standards.
 
-* ### **[Code2Chip AI — VS Code Extension](https://marketplace.visualstudio.com/search?term=Code2Chip&target=VSCode)**
-  * **[Source Repository](https://github.com/ritishkhichi/code2chip-ai)**
+* ### **[Code2Chip AI — VS Code Extension](https://marketplace.visualstudio.com/items?itemName=code2chip.code2chip-ai)**
   * Built and published an AI-assisted extension for ESP32 firmware debugging using TypeScript and VS Code APIs.
   * Integrated OpenOCD, local RAG pipelines, and multi-provider LLM diagnostics for embedded target verification.
 
